@@ -1,0 +1,15 @@
+import java.net.*;
+import java.io.*;
+
+public class Run
+{
+	public static void main(String args[])
+	{
+	
+		Configuration con = new Configuration();
+		
+		DataManage dm = new DataManage();
+		
+		LSP sp = new LSP();
+	}
+}	
